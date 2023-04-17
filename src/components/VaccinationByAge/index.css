@@ -1,0 +1,16 @@
+/* Write your CSS here */
+/* Write your CSS here */
+
+.chart_container {
+  background-color: rgba(43, 43, 73, 0.745);
+  padding: 30px 10px 10px 10px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.char_heading {
+  align-self: flex-start;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bar {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+.char_heading {
+  color: rgb(163, 158, 158);
+  font-weight: 500;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.chart_container {
+  background-color: rgba(43, 43, 73, 0.745);
+  padding: 30px 10px 10px 10px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
